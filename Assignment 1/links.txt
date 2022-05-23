@@ -1,0 +1,7 @@
+https://github.com/akashtadwai/IITH-BTech-ES-Courses/blob/master/SEM-6/DBMS-2/Assignments/Assignment1/Group11.png
+https://wiki.musicbrainz.org/images/5/52/ngs.png
+https://stackoverflow.com/questions/60239315/how-can-you-show-in-an-er-diagram-that-a-product-can-only-be-bought-once
+https://www.coursehero.com/tutors-problems/Information-Security/20287319-Draw-an-ER-diagram-for-Statement-1-Statement-1-An-online-music-platfo/
+https://www.google.com/search?q=Draw+an+ER+diagram+for+Statement+1Statement+1:+Each+album+has+a+unique+Album+IDAlbum+TitleAlbum+PriceRelease+Date&rlz=1C1ONGR_enIN927IN927&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjA8KbO1P_1AhWuw4sBHU1nAoUQ_AUoAXoECAEQAw&biw=1280&bih=577&dpr=1.5#imgrc=rPcfq1VDaUuOVM
+https://github.com/vijayphoenix/IITH-BTECH-Courses/blob/master/6th-Sem/CS3563%20Introduction%20to%20DBMS%20II/Solutions/Assignment%20_1_soln.png
+https://github.com/Sagox/IIT-Hyderabad-Courses/tree/master/DBMS-II/Theory-Assignment-1

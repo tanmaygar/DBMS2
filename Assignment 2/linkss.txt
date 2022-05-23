@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/71210467/converting-similar-names-to-canonical-form-in-sql
+https://towardsdatascience.com/python-tutorial-fuzzy-name-matching-algorithms-7a6f43322cc5
+https://towardsdatascience.com/surprisingly-effective-way-to-name-matching-in-python-1a67328e670e
+https://github.com/Christopher-Thornton/hmni
+https://github.com/seatgeek/thefuzz/blob/master/thefuzz/process.py
+https://stackoverflow.com/questions/71305027/making-combinations-of-attributes-unique-in-postgresql
+https://stackoverflow.com/questions/13881649/update-statement-using-nested-query
+https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/
+https://www.psycopg.org/docs/cursor.html#cursor.copy_from

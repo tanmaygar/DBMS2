@@ -1,0 +1,90 @@
+Titles
+Hoon Hong,Dongming Wang
+Charles J. Brooks
+Ahmed E. Hassan,Parminder Flora
+Darrel Creacy,Carlito Vicencio
+Neil Daswani,Anita Kesavan
+Shinto Eguchi,John Copas
+Lee Humphreys,Paul Messaris
+Oliver Kohlbacher,Knut Reinert,Clemens Gröpl,Eva Lange,Nico Pfeifer,Ole Schulz-Trieglaff,Marc Sturm
+John Blaint
+Vincent Wade,Helen Ashman,Barry Smyth
+Carlos Alberto Maziero,João Gabriel Silva,Aline Maria Santos Andrade,Flávio Morais de Assis Silva
+Howard A. Anton
+Michael Schrenk,Michael Shrenk
+E. Skubalska-Rafajtowicz,A. Krzyzak
+Alessandro Aurigi
+Eric Grebler
+Allan Hunkin
+Michael Rosenblum,Constantine Caramanis,Michel X. Goemans,Vahid Tarokh
+Axel Bucker
+John Odam
+David A. Marca
+Danny Raz,Arto Tapani Juhola,Joan Serrat-Fernandez,Alex Galis
+Alice Redmond-neal,Marjorie M. K. Hlava
+Jianer Chen,Fenghui Zhang
+Michael Raheem,Dima Sonkin,Thierry D'Hers,Kami LeMonds
+Donald Christiansen
+Arthur Greef,Michael Fruergaard Pontoppidan,Lars Dragheim Olsen,Palle Agermark,Hans J. Skovgaard
+Cay S. Horstmann
+Steve Holzner
+R. Kelly Rainer
+Jason Eckert
+David M. Lane
+Tibor Bosse,Catholijn M. Jonker,Jan Treur
+Stanley Habib
+J. Knipe,X. Li
+Donna Ulmer
+Jocelyn Robert
+John R. Mick
+Michael Smick
+Gene Orwell
+Jose Pedro Llamazares
+Nolan Hester
+Behrouz A. Forouzan
+Ted Lewis,Bruce Shriver
+Ken Abernethy
+Michael Cloran
+Rudolph Langer
+Cheng-Lin Liu,Hiroshi Sako
+Ron Dulin
+Jeong-woo Sohn,Daeyeol Lee
+Amir Ahmad,Lipika Dey
+Deborah Timmons
+David Cope
+June Jamrich Parsons,Dan Oja
+Woody Leonhard
+William J. Tracz
+Ian David Aronson
+Derrick Story
+Shelley Gaskin,John Preston,Sally Preston
+Michael T. Goodrich
+Lionel Felix,Damien Stolarz
+Brenden Munnelly,Paul Holden
+Amitabha Bagchi,Ankur Bhargava,Amitabh Chaudhary,David Eppstein,Christian Scheideler
+Zongmin Ma,Jake Chen
+Pamela W. Adams
+Andreas Nürnberger,Marcin Detyniecki
+David J. Horntrop
+Nightow Yoshiro
+Stephen R. Barley,Gideon Kunda
+Bart Preneel
+Lyle A. Cox, Jr.,James R. McGraw,Charles S. Wetherell
+Tom Collins
+Ben Long
+Damian Hodgson,Svetlana Cicmil
+Korinna Patelis
+Carla Rose
+Cay S. Horstmann
+Xiaohui Long,Torsten Suel
+Dean Bagley
+Wayne L. Winston
+John Maeda,Red Burns
+Dan Irish
+Jeff Kent
+Celso H. Poderoso de Oliveira
+Charles J. Brooks
+Hernan P. Awad,Peter W. Glynn
+Nita Hewitt Rutkosky,Denise Seguin
+Alexander Gelbukh,Carlos Alberto Reyes-Garcia
+Jon Barwise,John Etchemendy
